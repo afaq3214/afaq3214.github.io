@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/Afaq Qureshi/OneDrive/Desktop/html projects/portfolio website",
-      "program": "c:/Users/Afaq Qureshi/OneDrive/Desktop/html projects/portfolio website/build/Debug/outDebug",
+      "cwd": "c:/Users/Afaq Qureshi/OneDrive/Desktop/portfolio wesite/afaqportfolio.github.io",
+      "program": "c:/Users/Afaq Qureshi/OneDrive/Desktop/portfolio wesite/afaqportfolio.github.io/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
