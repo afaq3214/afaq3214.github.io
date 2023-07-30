@@ -1,0 +1,44 @@
+.nav ul{
+    flex-wrap: wrap;
+    justify-content: center;
+
+}
+#home{
+    height: 820px;
+}
+.headings{
+    font-size: 1.7rem;
+}
+.pic img{
+    height: 300px;
+    width: 175px;
+}
+#intro h2{
+    font-size: 1.5rem;
+}
+.gallery img{
+    width: 300px;
+    height: 150px;
+    margin: 10px;
+}
+.input{
+    width: 80%;
+}
+#msq{
+    width: 75%;
+}
+#send{
+    width:20%;
+}
+#home ::before{
+    content: "";
+    position: absolute;
+    top: 0;
+    right: 0;
+    background: url(_DSC0736.JPG) no-repeat center center/cover;
+    background-size: cover;
+    height: 860px;
+    width: 100%;
+    z-index: -1;
+    opacity: .7;
+}
