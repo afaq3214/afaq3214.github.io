@@ -52,11 +52,8 @@ align-items: center;
     position: absolute;
     top: 0;
     right: 0;
-<<<<<<< HEAD
-    background: url(afaq.jpg.JPG) no-repeat center center/cover;
-=======
-    background: url('._DSC0736.jpg') no-repeat center center/cover;
->>>>>>> 6c176721b1d6610638245fbb48892d203b6e3fd3
+    background: url('afaq.jpg.JPG') no-repeat center center/cover;
+
     
     height: 860px;
     width: 100%;
